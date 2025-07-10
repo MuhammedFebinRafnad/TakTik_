@@ -1,0 +1,2 @@
+D:/Personal/projects/TakTik_todo/tak_tik/android/app/.cxx/Debug/4n6b715p/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Personal/projects/TakTik_todo/tak_tik/android/app/.cxx/Debug/4n6b715p/armeabi-v7a/CMakeFiles/rebuild_cache.dir
